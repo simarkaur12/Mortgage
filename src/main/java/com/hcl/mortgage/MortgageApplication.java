@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MortgageApplication {
 
 	public static void main(String[] args) {
-		System.out.println("1111111111111");
 		SpringApplication.run(MortgageApplication.class, args);
 	}
 
